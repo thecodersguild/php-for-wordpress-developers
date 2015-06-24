@@ -35,14 +35,6 @@ By The Atlanta WordPress Coder's Guild
 	global <variable>;
 	
 ###Expressions and Values
-	<expr> => 
-		<operator> <expr>
-			||
-		<expr> <operator> <value>|<variable>|<expr> 
-	
-	<operator> =>
-		- + * / == ! || && 
-
 	echo ! $done;
 	
 	$count = 1;
@@ -157,8 +149,4 @@ By The Atlanta WordPress Coder's Guild
 	
 	}
 	
-	function 
-
-	
-
 	
