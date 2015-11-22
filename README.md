@@ -1,1 +1,1 @@
-# php-for-wordpress-developers
+# PHP for WordPress Developers
